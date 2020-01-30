@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &239568918943691843
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 5714773573481884047, guid: 9aa0ba932f9781b4584dcd3d4d57c330,
+        type: 3}
+      propertyPath: m_Name
+      value: Drifting RedBoid Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 5714773573481884080, guid: 9aa0ba932f9781b4584dcd3d4d57c330,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5714773573481884080, guid: 9aa0ba932f9781b4584dcd3d4d57c330,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5714773573481884080, guid: 9aa0ba932f9781b4584dcd3d4d57c330,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5714773573481884080, guid: 9aa0ba932f9781b4584dcd3d4d57c330,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5714773573481884080, guid: 9aa0ba932f9781b4584dcd3d4d57c330,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5714773573481884080, guid: 9aa0ba932f9781b4584dcd3d4d57c330,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5714773573481884080, guid: 9aa0ba932f9781b4584dcd3d4d57c330,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5714773573481884080, guid: 9aa0ba932f9781b4584dcd3d4d57c330,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5714773573481884080, guid: 9aa0ba932f9781b4584dcd3d4d57c330,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5714773573481884080, guid: 9aa0ba932f9781b4584dcd3d4d57c330,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5714773573481884080, guid: 9aa0ba932f9781b4584dcd3d4d57c330,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 330708928, guid: 9aa0ba932f9781b4584dcd3d4d57c330, type: 3}
+      propertyPath: velocity
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 330708928, guid: 9aa0ba932f9781b4584dcd3d4d57c330, type: 3}
+      propertyPath: movingBoid
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 330708928, guid: 9aa0ba932f9781b4584dcd3d4d57c330, type: 3}
+      propertyPath: Minvelocity
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 330708928, guid: 9aa0ba932f9781b4584dcd3d4d57c330, type: 3}
+      propertyPath: Maxvelocity
+      value: 11
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 4582508307588691428, guid: 9aa0ba932f9781b4584dcd3d4d57c330, type: 3}
+  m_SourcePrefab: {fileID: 100100000, guid: 9aa0ba932f9781b4584dcd3d4d57c330, type: 3}
